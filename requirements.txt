@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+requests
+nltk
+chardet
+beautifulsoup4
+google-generativeai
+deep-translator
+sympy
+segno
+psutil
